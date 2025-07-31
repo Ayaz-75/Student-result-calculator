@@ -1,0 +1,33 @@
+Create a program that takes a student's marks in multiple subjects and calculates:
+
+Total marks
+
+Percentage
+
+Grade (A, B, C, F)
+
+📋 Requirements:
+
+Take input for student name and marks in 5 subjects
+
+Each subject is out of 100
+
+Calculate:
+
+Total marks
+
+Percentage
+
+Grade (e.g., A ≥ 80, B ≥ 60, C ≥ 40, F < 40)
+
+Display result in a clean format
+
+Wrap logic inside functions
+
+Handle invalid inputs using try-except
+
+📁 Bonus:
+
+Allow multiple students using a loop
+
+Save results in a text file
