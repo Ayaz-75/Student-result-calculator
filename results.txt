@@ -1,0 +1,2 @@
+ayaz - {'Math': 99, 'Python': 99, 'Java': 99, 'English': 99, 'C++': 99} - Total: 495, Percentage: 99.00%, Grade: A
+Ayaz - {'Math': 99, 'Python': 99, 'Java': 99, 'English': 99, 'C++': 99} - Total: 495, Percentage: 99.00%, Grade: A
