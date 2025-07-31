@@ -1,7 +1,8 @@
 ```markdown
 # 🧮 Student Grade Calculator
 
-A simple Python console application that takes input for student marks in 5 subjects, calculates total marks, percentage, assigns a grade, and stores all student records.
+A simple Python console application that takes input for student marks in 5 subjects, calculates total marks, percentage, 
+assigns a grade, and stores all student records.
 
 ---
 
@@ -27,14 +28,10 @@ A simple Python console application that takes input for student marks in 5 subj
 
 ## 📂 Project Structure
 
-```
-
 student\_grade\_calculator/
 ├── student\_grades.py         # Main Python file
 ├── students\_results.csv      # Output CSV file
 └── README.md                 # Project documentation
-
-````
 
 ---
 
